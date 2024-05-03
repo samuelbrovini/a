@@ -9,6 +9,14 @@ justify-content: space-around;
     width: 20%;
 }
 
+body {
+    background-color: black;
+}
+
 p {
     text-align: center;
+}
+
+.escola {
+    color:white ;
 }
