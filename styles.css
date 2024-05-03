@@ -11,6 +11,11 @@ justify-content: space-around;
 
 body {
     background-color: black;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 p {
@@ -19,4 +24,8 @@ p {
 
 .escola {
     color:white ;
+}
+
+.imagecenter {
+    text-align: center;
 }
