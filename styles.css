@@ -37,6 +37,11 @@ li {
     text-align: left;
 }
 
+img {
+    max-width: 100%;
+    heigth: auto;
+}
+
 .escola {
     color:white ;
 }
